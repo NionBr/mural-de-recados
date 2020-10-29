@@ -6,3 +6,7 @@
  * PHP
  * MySql
  * Materialize css
+ 
+## Licença
+
+Este projeto está licenciado sob a licença MIT - consulte o arquivo [LICENSE.md](https://github.com/NionBr/mural-de-recados/blob/master/LICENSE) para obter detalhes
