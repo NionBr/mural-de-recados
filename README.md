@@ -5,7 +5,7 @@
  
  * PHP
  * MySql
- * Html
+ * HTML
  * Materialize css
  
 ## Licença
