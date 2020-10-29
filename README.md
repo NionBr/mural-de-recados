@@ -3,6 +3,6 @@
  
 # Tecnologias
  
- *PHP
- *MySql
- *Materialize css
+ * PHP
+ * MySql
+ * Materialize css
